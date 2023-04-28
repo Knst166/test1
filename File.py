@@ -4,5 +4,5 @@ class Cat():
         self.weight = self.weight
     def get_color(self):
         pass
-    get set_color(self):
+    def set_color(self):
         pass
